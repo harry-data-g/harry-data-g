@@ -2,21 +2,18 @@
 
 👋
 
-Welcome to my Github profile!
+🧑🏻‍🏫 Meet Hari, an enthusiastic undergraduate student at Howard University with a passion for computer science, specializing in data science.
 
-I'm HARI PAUDEL, a self-taught ML developer and Google Certified Data Analytics Professional. I have a passion for using machine learning to solve real-world problems and am always looking to expand my skillset.
+🛠️ He enjoys developing new things, whether it's ML algorithms, data analysis, or MLOps pipelines.
 
-Currently, I am diving deeper into the world of MLOps, Kubernetes, and GraphQL. These technologies are essential in building robust and scalable ML systems, and I am excited to continue learning more about them.
+👨🏻‍💻 Hari Loves Hackathons, giving lectures on spirituality, volunteering, participating & winning, he has done it all.
 
-When I am not working, you can find me working out to maintain a healthy physique and mental well-being. I believe that taking care of your body and mind is crucial to achieving success in any field.
+🤝🏻 He believe in individuality and loves to connect to new people, build communities and learn their way of doing stuff.
 
-On my Github profile, you will find some of my recent projects and experiments with machine learning and data science. I hope you find them interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
+🧑🏻‍🍳 When he is not busy coding, Hari indulges in his love for cooking his favorite delicacies or reading about ancient technology and its correlation with the cosmos and extraterrestrial life. 
 
-Thank you for visiting my profile!
+🏃🏻 Additionally, he is a fitness enthusiast who enjoys practicing karate, boxing, sprinting, and working out regularly.
 
-Cheers,
-
-Hari Paudel
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
