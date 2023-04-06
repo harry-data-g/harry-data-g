@@ -15,7 +15,6 @@
 🏃🏻 Additionally, he is a fitness enthusiast who enjoys practicing karate, boxing, sprinting, and working out regularly.
 
 
-![]
 
 ```python
 def skills_of_hari():
