@@ -2,7 +2,7 @@
 
 👋
 
-🧑🏻‍🏫 Meet Hari, an enthusiastic undergraduate student at Howard University with a passion for computer science, specializing in data science.
+🧑🏻‍🏫 Meet Hari, an enthusiastic undergraduate student at William Paterson University with a passion for computer science, specializing in data science.
 
 🛠️ He enjoys developing new things, whether it's ML algorithms, data analysis, or MLOps pipelines.
 
